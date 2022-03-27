@@ -6,7 +6,9 @@ Green: #00B172
 White: #FFF
 
 */
-
+html{
+    font-family: 'Signika', sans-serif;
+}
 
 /*Mohamed Hadri Section Start*/
 .mhadri-spotify-container{
@@ -19,7 +21,7 @@ align-items: center;
 }
 
 .mhadri-img-container{
-    margin: 6%;
+    margin: 8%;
 }
 .mhadri-img-container img{
 width: 90px;
@@ -35,4 +37,16 @@ width: 90px;
     display: inline;
     padding: 4px;
     border-bottom: 3px solid #FFF;
+}
+.mhadri-spotify-text h4{
+    font-size: 1.2rem;
+}
+
+/* media queries */
+
+@media screen and ( max-width:750px) {
+    
+    .mhadri-spotify-text{
+      width: 700px;  
+    }
 }
