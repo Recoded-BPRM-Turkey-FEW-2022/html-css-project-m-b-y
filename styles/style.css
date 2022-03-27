@@ -91,7 +91,10 @@ width: 90px;
 
 @media screen and ( max-width:750px) {
     
-    .mhadri-spotify-text{
-      width: 700px;  
+    .mhadri-spotify-container{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
     }
 }
