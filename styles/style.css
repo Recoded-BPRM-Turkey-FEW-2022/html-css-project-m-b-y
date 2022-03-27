@@ -51,3 +51,47 @@ White: #FFF
 p{
     font-size: 120%;
 }
+html{
+    font-family: 'Signika', sans-serif;
+}
+
+/*Mohamed Hadri Section Start*/
+.mhadri-spotify-container{
+background: #00B172;
+padding: 3.8rem 1rem;
+color:#FFF;
+display: flex;
+justify-content:space-around;
+align-items: center;
+}
+
+.mhadri-img-container{
+    margin: 8%;
+}
+.mhadri-img-container img{
+width: 90px;
+
+}
+
+
+.mhadri-card-container img{
+ width: 240px;
+}
+
+.mhadri-spotify-text h2{
+    display: inline;
+    padding: 4px;
+    border-bottom: 3px solid #FFF;
+}
+.mhadri-spotify-text h4{
+    font-size: 1.2rem;
+}
+
+/* media queries */
+
+@media screen and ( max-width:750px) {
+    
+    .mhadri-spotify-text{
+      width: 700px;  
+    }
+}
