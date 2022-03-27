@@ -6,3 +6,33 @@ Green: #00B172
 White: #FFF
 
 */
+
+
+/*Mohamed Hadri Section Start*/
+.mhadri-spotify-container{
+background: #00B172;
+padding: 3.8rem 1rem;
+color:#FFF;
+display: flex;
+justify-content:space-around;
+align-items: center;
+}
+
+.mhadri-img-container{
+    margin: 6%;
+}
+.mhadri-img-container img{
+width: 90px;
+
+}
+
+
+.mhadri-card-container img{
+ width: 240px;
+}
+
+.mhadri-spotify-text h2{
+    display: inline;
+    padding: 4px;
+    border-bottom: 3px solid #FFF;
+}
