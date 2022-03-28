@@ -1,0 +1,80 @@
+[33mcommit dec2853c0d4971c80ffa0ff12fe7ad8f6d0655f6[m[33m ([m[1;36mHEAD -> [m[1;32mfirst_section[m[33m, [m[1;31morigin/first_section[m[33m, [m[1;31morigin/3boxes-branch[m[33m, [m[1;32m3boxes-branch[m[33m)[m
+Merge: a6d73ee 31a9c91
+Author: Mohamed Hadri <mhadri1000@gmail.com>
+Date:   Mon Mar 28 20:55:21 2022 +0300
+
+    Merge yesim css with master
+
+[33mcommit 31a9c917d272263477b96748f057cc2e457d9f92[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Merge: 3c50271 055e619
+Author: Mohamed Hadri <mhadri1000@gmail.com>
+Date:   Mon Mar 28 20:50:29 2022 +0300
+
+    merge it with yesim
+
+[33mcommit 055e61910c7b8c75592b1f162d9ef15dc0622591[m
+Author: yesim <sityesim@gmail.com>
+Date:   Sun Mar 27 22:38:34 2022 +0300
+
+    first change
+
+[33mcommit a6d73eee88e1eed93a68409e13ff6f96178a4245[m
+Author: Mohamed Hadri <mhadri1000@gmail.com>
+Date:   Sun Mar 27 22:29:03 2022 +0300
+
+    changes to media queries mohamed
+
+[33mcommit fbe2a565399a778d634a4de353a2e39339b7c7e3[m
+Merge: 7670f47 3c50271
+Author: Mohamed Hadri <mhadri1000@gmail.com>
+Date:   Sun Mar 27 22:25:08 2022 +0300
+
+    adding mohamed branch to 3boxes branch
+
+[33mcommit 7670f47b3302d5eb2a85d24a7988791e83c40ead[m
+Author: Mohamed Hadri <mhadri1000@gmail.com>
+Date:   Sun Mar 27 21:52:35 2022 +0300
+
+    html fix mohamed
+
+[33mcommit 3c50271aaee960adeea5c26341a8bbb45649651c[m[33m ([m[1;31morigin/mohamed-branch[m[33m, [m[1;32mmohamed-branch[m[33m)[m
+Author: Mohamed Hadri <mhadri1000@gmail.com>
+Date:   Sun Mar 27 21:32:21 2022 +0300
+
+    new changes for media
+
+[33mcommit 8b05a8cfefe94650d900a353e5b0916eb560b253[m
+Author: beyzabostanci <beyza_bostanc@hotmail.com>
+Date:   Sun Mar 27 21:15:43 2022 +0300
+
+    midde part been made
+
+[33mcommit e43e56de76fae9cf457ba1924e76131cdc333468[m
+Author: mohamed hadri <mhadri1000@gmail.com>
+Date:   Sun Mar 27 19:47:20 2022 +0300
+
+    almost done
+
+[33mcommit 7b744600333ea0068ffe529add781b4e4e069b87[m
+Author: yesim <sityesim@gmail.com>
+Date:   Sat Mar 26 16:45:18 2022 +0300
+
+    main structure
+
+[33mcommit 1ca98b3e0ddd21904d0c311dd402542fd45516dc[m
+Author: github-classroom[bot] <66690702+github-classroom[bot]@users.noreply.github.com>
+Date:   Sat Mar 26 13:27:16 2022 +0000
+
+    Setting up GitHub Classroom Feedback
+
+[33mcommit 4c2271b1a98aa8ae3bfbaa187002b4f3a858794a[m[33m ([m[1;32mfeedback[m[33m)[m
+Author: github-classroom[bot] <66690702+github-classroom[bot]@users.noreply.github.com>
+Date:   Sat Mar 26 13:27:15 2022 +0000
+
+    GitHub Classroom Feedback
+
+[33mcommit a2b70e216dcdf1e81ed1c4db676b82762bd1262e[m
+Author: github-classroom[bot] <66690702+github-classroom[bot]@users.noreply.github.com>
+Date:   Sat Mar 26 13:27:13 2022 +0000
+
+    Initial commit
