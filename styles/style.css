@@ -85,7 +85,7 @@ li a {
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
-  font-size: 26px;
+  font-size:1.8vw;
 }
 
 
@@ -100,11 +100,18 @@ section{
   left: 50%;
   transform: translate(-50%, -50%);
   color:white;
-  font-size:32px;
+  margin-top:-35px;
   
 }
-h3{
-  padding:1px;
+.centered p{ 
+  font-size: 2.4vw;
+}
+.centered h1{
+  font-size: 4.4vw;
+}
+
+h1{
+  font-size:2.7em;
 }
 
 /*Mohamed Hadri Section Start*/
@@ -151,4 +158,16 @@ h3{
           align-items: center;
           text-align: center;
       }
+      /*
+     .centered p{
+       font-size: 0.875em;
+       display:flex;
+       align-items:center;
+
+      }
+      li a{
+        font-size:0.875em;
+        display:flex;
+        flex-wrap: nowrap;
+      }*/
   }
